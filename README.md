@@ -8,6 +8,7 @@ You must have ubuntu (vbox or otherwise) by now. Install these on ubuntu in the 
 
 **synaptic, package manager**, Use synaptic to install everything else.
 * sphinx, it is a documentation tool for python programs
+* python-setuptools
 * git, duh!
 * vim
 * sublime-text 3
@@ -19,3 +20,8 @@ You must have ubuntu (vbox or otherwise) by now. Install these on ubuntu in the 
 @menon-who-is-not-on-github will design and implement the server. With comunication protocol, and all. Good luck!
 
 @ashwin-mani-who-is-probably-on-github has not yet decided what he will work on.
+
+c2
+==
+Added structure, design
+Need to implement repo-init. Then ppl can use.
